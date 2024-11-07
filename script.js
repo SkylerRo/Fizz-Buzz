@@ -16,4 +16,10 @@ function fizzBuzz(num) {
 }
 }
 
-fizzBuzz(29)
+fizzBuzz(31)
+
+
+
+
+
+
